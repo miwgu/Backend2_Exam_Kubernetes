@@ -26,6 +26,7 @@ i kubernetes interna nätverk.
 Skriv i README vilka som är med i gruppen och 
 pusha koden till Github. Lägg till länken till repot i er 
 rapport.
+
 Du vet att du är klar när du kan köra en port-forward 
 på din deployade service, göra ett GET /hello och få 
 tillbaka “Hello, World!”.
